@@ -1,0 +1,39 @@
+{
+  "context-menu":
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "run-in-terminal",
+          "command" : "run-in-terminal:test"
+        }
+      ]
+    },
+
+
+
+
+  "menu": [
+    {
+      "label": "Run",
+      "submenu": [
+        {
+          "label": "test",
+          "command" : "run-in-terminal:test"
+        },
+        {
+          "label" : "Test Terminal",
+          "command" : "run-in-terminal:TestTerminal"
+        },
+        {
+          "label" : "Run Python",
+          "command" : "run-in-terminal:run"
+        }
+
+      ]
+    }
+    ]
+
+
+
+}

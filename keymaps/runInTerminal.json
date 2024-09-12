@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-shift-b" : "run-in-terminal:run"
+  }
+}

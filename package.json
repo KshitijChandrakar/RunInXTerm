@@ -1,0 +1,27 @@
+{
+  "name": "run-in-terminal",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Runs scripts in terminal",
+  "keywords": [
+  ],
+  "repository": "",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "consumedServices": {
+    "terminal": {
+      "versions": {
+        "^1.0.0": "consumeTerminalService"
+      }
+    },
+    "status-bar": {
+  "versions": {
+    "^1.0.0": "consumeStatusBar"
+  }
+}
+  }
+}

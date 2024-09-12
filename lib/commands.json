@@ -1,0 +1,14 @@
+{
+  "Python": { "Prefix": "python", "Suffix": "" },
+  "JavaScript": { "Prefix": "node", "Suffix": "" },
+  "C": { "Prefix": "gcc", "Suffix": "; ./a.exe;" },
+  "C++": { "Prefix": "g++", "Suffix": "; ./a.exe;" },
+  "Java": { "Prefix": "java", "Suffix": "" },
+  "Ruby": { "Prefix": "ruby", "Suffix": "" },
+  "PHP": { "Prefix": "php", "Suffix": "" },
+  "Go": { "Prefix": "go run", "Suffix": "" },
+  "Perl": { "Prefix": "perl", "Suffix": "" },
+  "Bash": { "Prefix": "bash", "Suffix": "" },
+  "Lua": { "Prefix": "lua", "Suffix": "" },
+  "SQL": { "Prefix": "", "Suffix": "" }
+}
