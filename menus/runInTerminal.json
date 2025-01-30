@@ -26,8 +26,12 @@
           "command" : "run-in-terminal:TestTerminal"
         },
         {
-          "label" : "Run Python",
+          "label" : "Run In Terminal",
           "command" : "run-in-terminal:run"
+        },
+        {
+          "label" : "Open Commands.json",
+          "command" : "run-in-terminal:OpenCommands.json"
         }
 
       ]

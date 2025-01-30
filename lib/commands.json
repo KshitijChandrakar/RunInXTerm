@@ -10,5 +10,6 @@
   "Perl": { "Prefix": "perl", "Suffix": "" },
   "Bash": { "Prefix": "bash", "Suffix": "" },
   "Lua": { "Prefix": "lua", "Suffix": "" },
+  "R": { "Prefix": "R --quiet -f", "Suffix": "" },
   "SQL": { "Prefix": "", "Suffix": "" }
 }
